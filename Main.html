@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First HTML Page</title>
+</head>
+<body>
+
+    <h1>Welcome to HTML</h1>
+    <p>This is my first HTML page.</p>
+
+    <a href="https://www.google.com">Visit Google</a>
+
+    <br><br>
+
+    <img src="image.jpg" alt="Sample Image" width="300">
+
+    <br><br>
+
+    <button>Click Me</button>
+
+</body>
+</html>
